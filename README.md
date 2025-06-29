@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Dev-Certified Android Device Banner" width="100%" />
+</p>
+
 # Dev-Certified Android Device Proposal
 
 > **A secure, root-enabled Android device line for ethical developers.**
