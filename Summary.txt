@@ -1,0 +1,16 @@
+Dev-Certified Android Device Proposal
+
+A new class of Android phones made specifically for developers, ROM builders, and ethical hackers.
+
+These devices come with official root access, an unlocked bootloader, 15 years of support, and legal waivers — so you don't need to hide from Play Integrity or risk warranty fights.
+
+✅ Official root access  
+✅ Developer-only firmware tied to identity  
+✅ Legal agreement required  
+✅ Higher price to prevent casual misuse  
+✅ Long-term support (15+ years)  
+✅ Strict anti-leak licensing
+
+Built for real development — not casual risk.
+
+Read the full proposal: dev_certified_android_proposal.pdf
