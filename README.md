@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Dev-Certified Android Device Banner" width="100%" />
+  <img src="assets/Banner.png" alt="Dev-Certified Android Device Banner" width="100%" />
 </p>
 
 # Dev-Certified Android Device Proposal
